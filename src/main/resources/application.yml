@@ -1,0 +1,11 @@
+#server:
+#  port: 8080
+#
+#person:
+#  name: 张三
+#  age: 13
+#  map: {1: aa,2: bb}
+#  list:
+#    - list1
+#    - list2
+#    - list3
